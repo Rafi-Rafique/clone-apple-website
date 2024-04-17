@@ -1,0 +1,114 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/* homepage */
+.navbar-brand> img{
+    width: 30px;
+    margin: 5px;
+}
+.navbar{
+    font-size: 12px;
+    font-weight: 500;  
+    height: 50px;
+}
+.navbar a{
+    margin-left: 20px;
+    text-align: center;
+}
+
+/* section-1 */
+.sec-1{
+    background-color: #ced4da;
+}
+
+.img-1{
+    width: 600px;
+}
+.img-2{
+    width: 100%;
+}
+
+.img-ww{
+    width: 80%;
+    height: 400px;
+}
+.img-mac{
+    width: 500px;
+    height: 600px;
+}
+
+.img-ipad{
+    width: 300px;
+    height: 600px;
+} 
+
+.img-card{
+width: 300px;
+height: 400px;
+}
+
+.img-trade{
+    width: 300px;
+    height: 400px;
+}
+.footer-para{
+    line-height: 20px;
+    font-size: 14px;
+}
+.footer-para a{
+   text-decoration: underline;
+    color: rgb(97, 97, 97);
+}
+
+.footer-list{
+    line-height: 15px;
+    font-size: 12px;
+}
+.footer-list h6{
+    font-size: 14px;
+}
+
+.copyright{
+    font-size: 12px;
+}
+
+/* Store-page */
+.store-sec-1-left >span{
+font-size: 3em ;
+font-weight: 600;
+line-height: 50px;
+}
+
+.comments-1{
+    line-height: 6px;
+}
+.comments-2{
+    line-height: 6px;
+}
+
+.slides img{
+    width: 130px;
+    height: 100px;
+}
+.slides p{
+   text-align: center;
+}
+
+
+.store-sec-3{
+    font-size: 2em;
+    font-weight: 500;
+}
+
+/* support-page */
+.support img{
+    width: 70px;
+    height: 100px;
+    
+}
+
+.support-card img{
+    height: 300px;
+}
